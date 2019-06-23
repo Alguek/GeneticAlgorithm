@@ -6,3 +6,6 @@ Algoritmo Genetico - Genetic Algorithm C# ( Portugues BR Comentarios/ English Co
   - SDK Core2.2+
 
 -Command ( dotnet GeneticAlgorithm.dll word )
+
+
+Algorito refeito em C# do site https://www.geeksforgeeks.org/genetic-algorithms/
