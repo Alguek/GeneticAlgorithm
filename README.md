@@ -1,5 +1,5 @@
 # GeneticAlgorithm
-Algoritmo Genetico - Genetic Algorithm C# ( Portugues BR - English )
+Algoritmo Genetico - Genetic Algorithm C# ( Portugues BR Comentarios/ English Comments ) 
 
 # Nescessario para rodar:
   - Um compilador para c# ( Visual Studio, Rider, etc...)
